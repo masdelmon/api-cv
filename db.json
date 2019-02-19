@@ -10,19 +10,99 @@
     },
     {
       "id": 2,
-      "dal": "12/07/2018",
-      "al": "12/11/2018",
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
       "occupation": "Java developer",
-      "employer": "EstiaTech srl, Roma",
-      "activities": "Sviluppo e manutenzione su UnicoWeb e UnicoBatch"
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
     },
     {
       "id": 3,
-      "dal": "12/07/2018",
-      "al": "12/11/2018",
+      "dal": "02/10/2017",
+      "al": "05/01/2018",
+      "occupation": "OFML Data creator",
+      "employer": "Easterngraphics srl, Bologna",
+      "activities": "Creazione dati per interior design. Uso di PHP per viewer webGL"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
       "occupation": "Java developer",
-      "employer": "EstiaTech srl, Roma",
-      "activities": "Sviluppo e manutenzione su UnicoWeb e UnicoBatch"
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
+    },
+    {
+      "id": 2,
+      "dal": "29/01/2018",
+      "al": "29/06/2018",
+      "occupation": "Java developer",
+      "employer": "Saep ICT Engineering srl, Milano",
+      "activities": "Sviluppo di applicazioni web usando il framework Jab di polimi"
     }
   ],
   "profile": {
